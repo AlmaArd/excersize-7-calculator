@@ -1,11 +1,12 @@
-
+package com.sda.she_likes_java.homework;
+//packages use reverse domain names
 
 import java.util.Scanner;
 
 public class Calculator {
     // psvm - not so magic shortcut
     public static void main(String[] args) {
-        System.out.println("Calculator...");
+        System.out.println("com.sda.she_likes_java.homework.Calculator...");
         System.out.println("Calculating sum of two numbers");
         System.out.println("Provide first number: ");
         int firstNumber;
