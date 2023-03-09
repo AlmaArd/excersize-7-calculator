@@ -4,7 +4,7 @@ public class IntegerRanges {
     public static void main(String[] args) {
         System.out.println("Let's see how integers ranges looks like");
         System.out.println("int ranges");
-        System.out.println("minimall int number is: " + Integer.MIN_VALUE);
+        System.out.println("minimal int number is: " + Integer.MIN_VALUE);
         System.out.println("maximum int number is: " +Integer.MAX_VALUE);
 
 
@@ -27,6 +27,8 @@ public class IntegerRanges {
         System.out.println("let's check byte type");
         System.out.println("minimal byte number is: " +Byte. MIN_VALUE);
         System.out.println("maximum byte number is: " +Byte. MAX_VALUE);
+
+       // int number = 9223372036854775807 - per ilgas numeris
 
 
     }
