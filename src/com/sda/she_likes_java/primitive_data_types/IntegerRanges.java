@@ -1,4 +1,4 @@
-package com.sda.she_likes_java.numbers;
+package com.sda.she_likes_java.primitive_data_types;
 
 public class IntegerRanges {
     public static void main(String[] args) {
