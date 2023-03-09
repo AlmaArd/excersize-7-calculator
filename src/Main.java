@@ -56,7 +56,7 @@ public class Main {
         int result = 9/4;
         System.out.println("result is: " + result);
 
-// modulo operator - remainder operator: 9/4 = 2 and 1(reminder)
+// modulo operator - remainder operator: 9/4 = 2 and 9%4; 1(reminder - liekana)
         result = 9%4;
         System.out.println("and now result is: " + result);
     }
