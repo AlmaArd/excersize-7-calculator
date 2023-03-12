@@ -2,6 +2,8 @@ package com.sda.she_likes_java.primitive_data_types;
 
 public class Literals {
     public static void main(String[] args) {
+
+    }
         // literal is a direct value
         // string literal is e.g. "name"
         String name = "Alma";
@@ -17,5 +19,4 @@ public class Literals {
 
         // float literal
         float floatNumber = 3.1F;
-
     }
