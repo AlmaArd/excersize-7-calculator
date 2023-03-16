@@ -13,7 +13,6 @@ public class ManyTimesWhileLoop {
         while (numberOfTimes > 0) {
             System.out.println("repeating....");
             System.out.println("current value of number of trials is: " + numberOfTimes);
-
             numberOfTimes--;  // it's the same as: numberOfTimes = numberOfTimes - 1;
         }
     }
