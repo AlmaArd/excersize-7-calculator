@@ -71,6 +71,7 @@ public class BouncerInDiscoStoryWithMoreFunctions {
         return inputReader.nextInt();
     }
 
+    // kai funkcija void - nereikia return
     public static void printText(String myFunctionParameter ) {
         System.out.println(myFunctionParameter);
     }
